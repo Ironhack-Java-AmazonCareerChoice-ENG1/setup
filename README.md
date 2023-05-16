@@ -8,7 +8,7 @@
 ## Windows
 
 1. Install choco https://chocolatey.org/install
-2. From and Admin Shell execute the following code `choco install openjdk17 maven git intellijidea-ultimate -y`
+2. From and Admin Power Shell execute the following code `choco install openjdk17 maven git intellijidea-ultimate -y`
 
 
 ## MacOS
